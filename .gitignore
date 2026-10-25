@@ -221,3 +221,9 @@ __marimo__/
 
 # Company Data
 data/*
+
+# Environment Directory
+.venv\*
+
+# Test Directory
+tests/*
